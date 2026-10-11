@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://yarnovate.run.place/sitemap.xml
